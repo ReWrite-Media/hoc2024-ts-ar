@@ -1,13 +1,13 @@
 // ENUMS
 
 enum Drums {
-    //% block="stop"
+    //% block="توقف"
     Stop,    
-    //% block="slow"
+    //% block="بطيء"
     Slow,
-    //% block="medium"
+    //% block="متوسط"
     Medium,
-    //% block="fast"
+    //% block="سريع"
     Fast
 }
 
@@ -31,22 +31,22 @@ enum Instrument {
     //% blockIdentity="blocks.custom" enumval=0 block="synth"
     //% jres 
     Synth,
-    //% blockIdentity="blocks.custom" enumval=1 block="xylophone"
+    //% blockIdentity="blocks.custom" enumval=1 block="الإكسيليفون"
     //% jres 
     Xylophone,
-    //% blockIdentity="blocks.custom" enumval=2 block="guitar"
+    //% blockIdentity="blocks.custom" enumval=2 block="الجيتار"
     //% jres 
     Guitar,
     //% blockIdentity="blocks.custom" enumval=3 block="flute"
     //% jres
     Flute,
-    //% blockIdentity="blocks.custom" enumval=5 block="bells"
+    //% blockIdentity="blocks.custom" enumval=5 block="الأجراس"
     //% jres
     Bells,
     //% blockIdentity="blocks.custom" enumval=6 block="bass"
     //% jres
     Bass,
-    //% blockIdentity="blocks.custom" enumval=7 block="piano"
+    //% blockIdentity="blocks.custom" enumval=7 block="بيانو"
     //% jres
     Piano,
     //% blockIdentity="blocks.custom" enumval=8 block="villager"
@@ -55,13 +55,13 @@ enum Instrument {
 }
 
 enum Instrument_Activity {
-    //% blockIdentity="blocks.custom" enumval=9 block="xylophone"
+    //% blockIdentity="blocks.custom" enumval=9 block="الإكسيليفون"
     //% jres
     Xylophone,
-    //% blockIdentity="blocks.custom" enumval=10 block="guitar"
+    //% blockIdentity="blocks.custom" enumval=10 block="الجيتار"
     //% jres
     Guitar,
-    //% blockIdentity="blocks.custom" enumval=11 block="bells"
+    //% blockIdentity="blocks.custom" enumval=11 block="الأجراس"
     //% jres
     Bells
 }
@@ -81,7 +81,7 @@ namespace hoc {
      * Instrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar
      * Instrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone
      */    
-    //% block="add instrument %i"
+    //% block="إضافة آلة %i"
     //% i.fieldEditor="gridpicker"
     //% i.fieldOptions.columns=4
     export function add_instrument(i: Instrument): void {
@@ -124,7 +124,7 @@ namespace hoc {
      * Instrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar
      * Instrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone
      */       
-    //% block="remove instrument %i"
+    //% block="إزالة آلة %i"
     //% i.fieldEditor="gridpicker"
     //% i.fieldOptions.columns=4
     export function remove_instrument(i: Instrument): void {
@@ -157,7 +157,7 @@ namespace hoc {
         loops.pause(communicationsTimeout)
     }
 
-    //% block="add instrument %i"
+    //% block="إضافة آلة %i"
     //% i.fieldEditor="gridpicker"
     //% i.fieldOptions.columns=3
     export function _add_instrument_activity(i: Instrument_Activity): void {
@@ -175,7 +175,7 @@ namespace hoc {
         loops.pause(communicationsTimeout)
     }
 
-    //% block="remove instrument %i"
+    //% block="إزالة آلة %i"
     //% i.fieldEditor="gridpicker"
     //% i.fieldOptions.columns=3
     export function _remove_instrument_activity(i: Instrument_Activity): void {
@@ -201,7 +201,7 @@ namespace hoc {
      * Valid parameters are:
      * Note.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti
      */       
-    //% block="note %k"
+    //% block="النوتة %k"
     export function note(k: Note): void {
         switch (k) {
             case Note.Do:

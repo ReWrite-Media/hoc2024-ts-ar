@@ -1,0 +1,28 @@
+{
+    "name": "hoc2024-ts-costume",
+    "version": "0.1.1",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.ts",
+        "tutorial-info-cache.json",
+        "headware_activity.jres",
+        "headwear.jres",
+        "lowerwear_activity.jres",
+        "lowerwear.jres",
+        "midwear_activity.jres",
+        "midwear.jres"
+    ],
+    "testFiles": [],
+    "targetVersions": {
+        "target": "1.8.5",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}

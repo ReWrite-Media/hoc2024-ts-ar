@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Ця функція дозволяє додати один із 8 різних інструментів.\r\n* Приклад використання: hoc.add_instrument(Instrument.Guitar)\r\n* Допустимими параметрами є:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Ця функція дозволяє запустити або зупинити барабанний дріб.\r\n* Приклад використання: hoc.drums(Drums.Fast)\r\n* Допустимими параметрами є:\r\nDrums.Slow, Drums.Medium або Drums.Fast, Drums.None",
+  "hoc.note": "Ця функція дозволяє встановити, яку ноту грати.\r\n* Приклад використання: hoc.note(Note.Do)\r\n* Допустимими параметрами є:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Ця функція дозволяє видалити будь-який інструмент, який зараз\r\nдодано.\r\n* Приклад використання: hoc.remove_instrument(Instrument.Guitar)\r\n* Допустимими параметрами є:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

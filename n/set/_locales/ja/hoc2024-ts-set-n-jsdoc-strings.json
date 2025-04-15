@@ -1,0 +1,3 @@
+{
+  "hoc.set": "この機能は、セットのバイオーム、時間、天気を設定します。\r\n*使用例:hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* 有効なバイオームパラメータは次のとおりです。\r\nBiome.Savannah、Biome.Taiga、Biome.Desert、Biome.Jungle、Biome.Forest\r\nBiome.Ocean、Biome.Nether、Biome.End、Biome.City、Biome.Space\r\n* 有効な時間パラメータは次のとおりです。\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* 有効な気候パラメータは以下の通りです。\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

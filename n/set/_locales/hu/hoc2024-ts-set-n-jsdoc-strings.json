@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Ez a függvény beállítja a díszlet biomját, napszakját és időjárását.\r\n* Példa a használatára: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Érvényes biomparaméterek:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Érvényes napszakparaméterek:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Érvényes időjárás-paraméterek:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

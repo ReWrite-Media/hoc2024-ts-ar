@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Denne funktion indstiller kulissens biom, tid og vejr.\r\n* Eksempel på brug: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Gyldige biomargumenter er:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Gyldige tidsargumenter er:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Gyldige klimaargumenter er:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

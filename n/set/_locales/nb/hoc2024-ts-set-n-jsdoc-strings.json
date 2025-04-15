@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Denne funksjonen angir biomet, tiden og været til settet.\r\n*Eksempel på bruk: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Gyldige biomparametere er:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Gyldige tidsparametere er:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Gyldige klimaparametere er:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

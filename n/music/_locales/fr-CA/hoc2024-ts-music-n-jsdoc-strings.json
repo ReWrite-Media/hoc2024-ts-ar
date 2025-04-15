@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Ce sous-programme vous permet d'ajouter l'un des huit instruments différents.\r\n* Exemple d'utilisation : hoc.add_instrument(Instrument.Guitar)\r\n* Les paramètres valides sont :\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Ce sous-programme vous permet de commencer ou d'arrêter la batterie.\r\n* Exemple d'utilisation : hoc.drums(Drums.Fast)\r\n* Les paramètres valides sont :\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Ce sous-programme vous permet de définir les notes à jouer.\r\n* Exemple d'utilisation : hoc.note(Note.Do)\r\n* Les paramètres valides sont :\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Ce sous-programme vous permet de supprimer tout instrument actuellement\r\najouté.\r\n* Exemple d'utilisation : hoc.remove_instrument(Instrument.Guitar)\r\n* Les paramètres valides sont :\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

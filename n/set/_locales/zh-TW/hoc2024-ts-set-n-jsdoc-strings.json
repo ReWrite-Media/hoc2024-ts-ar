@@ -1,0 +1,3 @@
+{
+  "hoc.set": "此函數會為此套組設定生態域、時間和天氣。\r\n*使用範例：hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n*有效的生態域參數如下：\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n*有效的時間參數如下：\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n*有效的氣候參數如下：\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

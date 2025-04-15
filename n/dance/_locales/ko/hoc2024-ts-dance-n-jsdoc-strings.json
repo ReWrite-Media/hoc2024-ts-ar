@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "이 함수는 어느 방어구가\r\n어떤 춤을 수행해야 하는지 지시합니다.\r\n* 사용 예제: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* 유효한 매개 변수:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "이 함수는 어떤 춤을 수행해야 하는지 지시합니다.\r\n* 사용 예제: hoc.dance(Dance.Move8)\r\n* 유효한 매개 변수:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

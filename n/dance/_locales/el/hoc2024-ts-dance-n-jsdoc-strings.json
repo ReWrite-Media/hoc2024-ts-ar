@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Αυτή η λειτουργία καθορίζει ποια βάση\r\nπανοπλίας πρέπει να κάνει ποιον χορό.\r\n* Παράδειγμα χρήσης: hoc.dance (ArmorStand.One, Dance.Move8)\r\n* Οι έγκυρες παράμετροι είναι:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Αυτή η συνάρτηση καθορίζει ποιος χορός πρέπει να γίνει .\r\n*Παράδειγμα χρήσης: hoc.Dance (Dance.Move8 )\r\n*Οι έγκυρες παράμετροι είναι:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

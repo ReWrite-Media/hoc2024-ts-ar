@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Bu işlev, hangi zırh\r\naskısının hangi dans figürünü yapması gerektiğini belirler.\r\n* Kullanım Örneği: hoc.dans(Zırh.Askısı.Bir, Dans.Figürü8)\r\n* Geçerli parametreler şunlardır:\r\nYunus.Diskosu.Dansı, Mantar.Yürüyüşü.Dansı, Golem.Koşusu.Dansı, Wither.Dalgası.Dansı",
+  "hoc.dance": "Bu işlev, hangi dansın yapılacağını belirtir.\r\n* Kullanım Örneği: hoc.dans(Dans.Figürü8)\r\n* Geçerli parametreler şunlardır:\r\nGolem.Koşusu.Dansı, Yunus.Diskosu.Dansı, Wither.Dalgası.Dansı, Mantar.Yürüyüşü.Dansı,\r\nBlaze.Zıplayışı.Dansı, Creeper.Alkışı.Dansı, Çapulcu.İtişmesi.Dansı, Hoglin.El.Dansı,\r\nZindan.Kazısı.Dansı, Alex.Aksı.Dansı, Bekçi.Kargaşası.Dansı"
+}

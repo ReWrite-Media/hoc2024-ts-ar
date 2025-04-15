@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Den här funktionen instruerar vilket rustningsställ\r\nsom ska utföra vilken dans.\r\n* Exempel: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Giltiga parametrar:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Den här funktionen instruerar vilken dans som ska utföras.\r\n* Exempel: hoc.dance(Dance.Move8)\r\n* Giltiga parametrar:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

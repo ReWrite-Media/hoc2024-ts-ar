@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Тази функция задава биома, часа и времето за сцената.\r\n* Пример за използване: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Валидните параметри за биом са:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Валидните параметри за час са:\r\nTime.Sunrise, Time.Day, Time. Sunset, Time.Night\r\n* Валидни параметри за климата са:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

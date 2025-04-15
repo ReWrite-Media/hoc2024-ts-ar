@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Fungsi ini mengatur bioma, waktu, dan cuaca untuk lokasi.\r\n* Contoh Penggunaan: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Parameter Bioma yang valid adalah:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Parameter Waktu yang valid adalah:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Parameter Iklim yang valid adalah:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

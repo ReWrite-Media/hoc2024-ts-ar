@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Tämän funktion avulla voit lisätä yhden kahdeksasta eri soittimesta.\r\n*Käyttöesimerkki: hoc.add_instrument(Instrument.Guitar)\r\n*Kelvolliset parametrit:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Tämän funktion avulla voit aloittaa tai pysäyttää rumpukompin.\r\n*Käyttöesimerkki: hoc.drums(Drums.Fast)\r\n*Kelvolliset parametrit:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Tämän funktion avulla voit määrittää, mitä nuottia soitetaan.\r\n*Käyttöesimerkki: hoc.note(Note.Do)\r\n*Kelvolliset parametrit:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Tämän funktion avulla voit poistaa minkä tahansa lisätyn\r\nsoittimen.\r\n*Käyttöesimerkki: hoc.remove_instrument(Instrument.Guitar)\r\n*Kelvolliset parametrit:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

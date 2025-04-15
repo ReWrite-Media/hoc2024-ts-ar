@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "此函數可讓你新增 8 種不同的樂器。\r\n*使用範例：hoc.add_instrument(Instrument.Guitar)\r\n*有效參數如下：\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "此函數可讓你開始或停止鼓聲。\r\n*使用範例：hoc.drums(Drums.Fast)\r\n*有效參數如下：\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "此函數可讓你設定要播放的音符。\r\n*使用範例：hoc.net (Note.Do)\r\n*有效參數如下：\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "此函數可讓你移除目前\r\n新增的的任何樂器。\r\n*使用範例：hoc.remove_instrument(Instrument.Guitar)\r\n*有效參數如下：\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

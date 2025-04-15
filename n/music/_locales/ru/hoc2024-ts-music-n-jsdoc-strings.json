@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Эта функция позволяет добавить один из 8 инструментов .\r\n* Пример использования: hoc.add_instrument(Instrument.Guitar)\r\n* Доступные параметры:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Эта функция позволяет включить или отключить барабанную партию.\r\n* Пример использования: hoc.drums(Drums.Fast)\r\n* Доступные параметры:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Эта функция позволяет выбрать ноту для воспроизведения.\r\n* Пример использования: hoc.note(Note.Do)\r\n* Доступные ноты:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Эта функция позволяет удалить любой инструмент\r\n.\r\n*Пример использования: hoc.remove_instrument(Instrument.Guitar)\r\n* Доступные параметры:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

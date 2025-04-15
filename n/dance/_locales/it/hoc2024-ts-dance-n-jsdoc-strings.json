@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Questa funzione abbina il supporto\r\nper armatura al rispettivo ballo.\r\n*Esempio di utilizzo: hoc.dance(ArmorStand.One, Dance.Move8)\r\n*I parametri validi sono:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Questa funzione indica il ballo da eseguire.\r\n*Esempio di utilizzo: hoc.dance(Dance.Move8)\r\n*I parametri validi sono:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

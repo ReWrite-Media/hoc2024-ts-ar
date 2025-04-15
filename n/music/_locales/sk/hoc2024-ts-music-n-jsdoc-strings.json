@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Táto funkcia vám umožňuje pridať jeden z 8 rôznych nástrojov.\r\n* Príklad použitia: hoc.add_instrument(Instrument.Guitar)\r\n* Platné parametre sú:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Táto funkcia vám umožňuje pustiť alebo zastaviť rytmus bicích.\r\n* Príklad použitia: hoc.drums(Drums.Fast)\r\n* Platné parametre sú:\r\nDrums.Slow, Drums.Medium alebo Drums.Fast, Drums.None",
+  "hoc.note": "Táto funkcia vám umožňuje nastaviť, aký tón sa zahrá.\r\n* Príklad: hoc.note (Note.Do )\r\n* Platné parametre sú:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Táto funkcia vám umožňuje odstrániť akýkoľvek nástroj, ktorý je v danej chvíli\r\npridaný.\r\n* Príklad: hoc.remove_instrument(Instrument.Guitar)\r\n* Platné parametre sú:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

@@ -1,0 +1,3 @@
+{
+  "hoc.costume": "此函数采用三个参数，定义了应该\r\n放置在头部、身体和腿部的衣物。\r\n* 使用示例：hoc.costume(HeadWear.Knight_Helmet, MidWear.Knight_Top, LowerWear.Knight_Legs)\r\n* 有效的头部装扮参数为：\r\nAstronaut_Helmet、Ballerina_Crown、Baseball_Hat、Construction_Helmet\r\nCowboy_Hat、Knight_Helmet、Reading_Glasses、Sun_Glasses、Superstar_Hat\r\n* 有效的上身装扮参数为：\r\nAstronaut_Top、Ballerina_Shirt、Basketball_Jersey、Construction_Shirt\r\nCowboy_Shirt、Green_TShirt、Knight_Top、Superstar_Shirt、Varsity_Jacket\r\n*有效的下身装扮参数为：\r\nAstronaut_Legs、Ballerina_Tutu、Black_Boots、Construction_Pants\r\nCowboy_Pants、Khaki_Shorts、Knight_Legs、Superstar_Pants、Swim_Shorts"
+}

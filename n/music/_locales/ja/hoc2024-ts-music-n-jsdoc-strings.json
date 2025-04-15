@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "この機能により、8つの異なる楽器のうちの1つを追加できます。\r\n*  使用例:hoc.add_instrument(Instrument.Guitar)\r\n* 有効なパラメータは次のとおりです。\r\nInstrument.Bass、Instrument.Bells、Instrument.Flute、Instrument.Guitar\r\nInstrument.Piano、Instrument.Synth、Instrument.Villager、Instrument.Xylophone",
+  "hoc.drums": "この機能を使用すると、ドラムビートを開始または停止できます。\r\n*  使用例:hoc.drums(Drums.Fast)\r\n* 有効なパラメータは次のとおりです。\r\nDrums.Slow、Drums.Medium、Drums.Fast、または Drums.None",
+  "hoc.note": "この機能を使用すると、演奏する音符を設定できます。\r\n*  使用例:hoc.note(Note.Do)\r\n* 有効なパラメータは次のとおりです。\r\nNote.Do、Note.Re、Note.Mi、Note.Fa、Note.So、Note.La、Note.Ti",
+  "hoc.remove_instrument": "この機能を使用すると、追加された任意の楽器を削除できます。\r\n\r\n*  使用例:hoc.remove_instrument(Instrument.Guitar)\r\n* 有効なパラメータは次のとおりです。\r\nInstrument.Bass、Instrument.Bells、Instrument.Flute、Instrument.Guitar\r\nInstrument.Piano、Instrument.Synth、Instrument.Villager、Instrument.Xylophone"
+}

@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Bu işlev; set için biyomu, zamanı ve hava durumunu ayarlar.\r\n* Kullanım Örneği: hoc.set(Biyom.Savan, Günün.Zamanı, Yağmurlu.Hava)\r\n* Geçerli Biyom parametreleri şunlardır:\r\nSavan.Biyomu, Tayga.Biyomu, Çöl.Biyomu, Büyük Orman.Biyomu, Orman.Biyomu\r\nOkyanus.Biyomu, Nether.Biyomu, End.Biyomu, Şehir.Biyomu, Uzay.Biyomu\r\n* Geçerli Zaman parametreleri şunlardır:\r\nGün.Doğumu, Gündüz, Gün.Batımı, Gece\r\n* Geçerli İklim parametreleri şunlardır:\r\nAçık.İklim, Karlı.İklim, Yağmurlu.İklim, Gök.Gürültülü.Sağanak.Yağışlı.İklim"
+}

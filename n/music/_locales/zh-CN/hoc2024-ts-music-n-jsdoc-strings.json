@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "此函数允许你添加 8 种不同的乐器之一。\r\n* 使用示例：hoc.add_instrument(Instrument.Guitar)\r\n* 有效的参数为：\r\nInstrument.Bass、Instrument.Bells、Instrument.Flute、Instrument.Guitar\r\nInstrument.Piano、Instrument.Synth、Instrument.Villager、Instrument.Xylophone",
+  "hoc.drums": "此函数允许你开始或停止击鼓。\r\n* 使用示例：hoc.drums(Drums.Fast)\r\n* 有效的参数为：\r\nDrums.Slow、Drums.Medium 或 Drums.Fast、Drums.None",
+  "hoc.note": "此函数允许你设置播放的音符。\r\n* 使用示例：hoc.note(Note.Do)\r\n* 有效的参数为：\r\nNote.Do、Note.Re、Note.Mi、Note.Fa、Note.So、Note.La、Note.Ti",
+  "hoc.remove_instrument": "此函数允许你移除当前已添加的任何\r\n乐器。\r\n* 使用示例：hoc.remove_instrument(Instrument.Guitar)\r\n* 有效的参数为：\r\nInstrument.Bass、Instrument.Bells、Instrument.Flute、Instrument.Guitar\r\nInstrument.Piano、Instrument.Synth、Instrument.Villager、Instrument.Xylophone"
+}

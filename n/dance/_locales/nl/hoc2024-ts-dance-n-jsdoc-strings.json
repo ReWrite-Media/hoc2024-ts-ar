@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Deze functie bepaalt welke harnashouder\r\nwelk dansje moet doen.\r\n* Gebruiksvoorbeeld: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Geldige parameters zijn:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Deze functie bepaalt welke dans moet worden uitgevoerd .\r\n* Gebruiksvoorbeeld: hoc.dance(Dance.Move8)\r\n* Geldige parameters zijn:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

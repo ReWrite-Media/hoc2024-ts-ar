@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "此函数指示哪种盔甲\r\n架应该跳哪支舞蹈。\r\n*使用示例：hoc.dance(ArmorStand.One, Dance.Move8)\r\n* 有效的参数为：\r\nDance.DolphinDisco、Dance.MushroomMarch、Dance.GolemGallop、Dance.WitherWave",
+  "hoc.dance": "此函数指示应该跳哪支舞蹈。\r\n* 使用示例：hoc.dance(Dance.Move8)\r\n* 有效的参数为：\r\nDance.GolemGallop、Dance.DolphinDisco、Dance.WitherWave、Dance.MushroomMarch、\r\nDance.BlazeBounce、Dance.CreeperClap、Dance.RavagerRomp、Dance.HoglinHandJive、\r\nDance.DungeonDig、Dance.AlexAxle、Dance.WardenWhirl"
+}

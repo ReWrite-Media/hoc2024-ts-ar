@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Ця функція встановлює біом, час і погоду для набору.\r\n* Приклад використання: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Допустимими параметрами біома є:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Допустимі параметри часу:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Допустимими кліматичними параметрами є:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Ta funkcja pozwala na dodanie jednego z 8 różnych instrumentów.\r\n* Przykład użycia: hoc.add_instrument(Instrument.Guitar)\r\n* Prawidłowe parametry to:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Ta funkcja umożliwia rozpoczęcie lub zatrzymanie uderzenia bębna.\r\n* Przykład użycia: hoc.drums(Drums.Fast)\r\n* Prawidłowe parametry to:\r\nDrums.Slow, Drums.Medium lub Drums.Fast, Drums.None",
+  "hoc.note": "Ta funkcja pozwala ustawić, jaką nutę chcesz zagrać.\r\n* Przykład użycia: hoc.note(Note.Do)\r\n* Prawidłowe parametry to:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Ta funkcja pozwala na usunięcie dowolnego instrumentu, który jest aktualnie\r\ndodany.\r\n* Przykład użycia: hoc.remove_instrument(Instrument.Guitar)\r\n* Prawidłowe parametry to:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

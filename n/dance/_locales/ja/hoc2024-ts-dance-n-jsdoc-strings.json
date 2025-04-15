@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "この機能は、どの防具立てがどのダンスを行うかを指示します。\r\n* 使用例:hoc.dance(ArmorStand.One, Dance.Move8)\r\n* 有効なパラメータは次のとおりです。\r\nDance.DolphinDisco、Dance.MushroomMarch、Dance.GolemGallop、Dance.WitherWave",
+  "hoc.dance": "この機能は、どのダンスを行うべきかを指示します。\r\n* 使用例:hoc.dance(Dance.Move8)\r\n* 有効なパラメータは次のとおりです。\r\nDance.GolemGallop、Dance.DolphinDisco、Dance.WitherWave、Dance.MushroomMarch、\r\nDance.BlazeBounce、Dance.CreeperClap、Dance.RavagerRomp、Dance.HoglinHandJive、\r\nDance.DungeonDig、Dance.AlexAxle、Dance.WardenWhirl"
+}

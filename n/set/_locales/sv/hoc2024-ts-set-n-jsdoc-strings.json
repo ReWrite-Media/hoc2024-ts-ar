@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Den här funktionen ställer in ekosystem, tid och väder.\r\n* Exempel: hoc.set(Biome.Savannah, Time.Day, Weather. Rain)\r\n* Giltiga ekosystemsparametrar:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome. Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Giltiga tidsparametrar:\r\nTime.Sunrise, Time.Day, Time. Sunset, Time.Night\r\n* Giltiga klimatparametrar:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

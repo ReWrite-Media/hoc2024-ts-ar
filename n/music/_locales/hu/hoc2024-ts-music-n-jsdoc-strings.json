@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Ez a függvény lehetővé teszi, hogy hozzáadd a 8 különböző hangszer egyikét.\r\n* Példa a használatára:hoc.add_instrument(Instrument.Guitar)\r\n* Érvényes paraméterek:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Ez a függvény lehetővé teszi, hogy dobütemeket indíts el vagy állíts le.\r\n* Példa a használatára: hoc.drums(Drums.Fast)\r\n* Érvényes paraméterek:\r\nDrums.Slow, Drums.Medium vagy Drums.Fast, Drums.None",
+  "hoc.note": "Ez a függvény lehetővé teszi, hogy beállítsd a lejátszani kívánt hangot.\r\n* Példa a használatára: hoc.note(Note.Do)\r\n* Érvényes paraméterek:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Ez a függvény lehetővé teszi, hogy eltávolíts egy már hozzáadott\r\nhangszert.\r\n* Példa a használatára: hoc.remove_instrument(Instrument.Guitar)\r\n* Érvényes paraméterek:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Тази функция определя коя стойка\r\nза броня кой танц да изпълни.\r\n* Пример за използване: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Валидните параметри са:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Тази функция указва кой танц трябва да се изпълни.\r\n* Пример за използване: hoc.dance(Dance.Move8)\r\n* Допустимите параметри са:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

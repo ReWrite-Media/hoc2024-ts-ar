@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Tämä funktio määrittää, minkä\r\nhaarniskajalustan pitäisi tehdä mikäkin tanssi.\r\n* Käyttöesimerkki: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Kelvolliset parametrit:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Tämä funktio määrittää suoritettavan tanssin.\r\n*Käyttöesimerkki: hoc.dance(Dance.Move8)\r\n*Kelvolliset parametrit:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

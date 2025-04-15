@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Denne funksjonen bestemmer hvilket rustning\r\nstativ som skal gjøre hvilken dans.\r\n* Eksempel på bruk: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Gyldige parametere er:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Denne funksjonen bestemmer hvilken dans som skal gjøres.\r\n* Eksempel på bruk: hoc.dance(Dance.Move8)\r\n* Gyldige parametere er:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Ce sous-programme définit le biome, l'heure et la météo pour l'ensemble.\r\n* Exemple d'utilisation : hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Les paramètres de biome valides sont :\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Les paramètres d'heure valides sont :\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Les paramètres de climat valides sont :\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

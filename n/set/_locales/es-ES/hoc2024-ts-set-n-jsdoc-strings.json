@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Esta función determina el bioma, la hora y el tiempo atmosférico para el decorado.\r\n* Ejemplo de uso: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n* Los parámetros válidos para el bioma son:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n* Los parámetros válidos para la hora son:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n* Los parámetros válidos para el clima son:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

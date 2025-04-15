@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Den här funktionen låter dig lägga till ett av 8 olika instrument.\r\n* Exempel: hoc.add_instrument(Instrument.Guitar)\r\n* Giltiga parametrar:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Den här funktionen låter dig starta eller stoppa ett trumbeat.\r\n* Exempel: hoc.drums(Drums.Fast)\r\n* Giltiga parametrar:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Den här funktionen låter dig välja vilken ton som ska spelas.\r\n* Exempel: hoc.note(Note.Do)\r\n* Giltiga parametrar:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Den här funktionen låter dig ta bort instrument som\r\nlagts till.\r\n* Exempel: hoc.remove_instrument(Instrument.Guitar)\r\n* Giltiga parametrar:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

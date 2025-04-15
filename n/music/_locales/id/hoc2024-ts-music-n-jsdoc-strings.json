@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Fungsi ini membuatmu bisa menambahkan salah satu dari 8 instrumen.\r\n* Contoh Penggunaan: hoc.add_instrument(Instrument.Guitar)\r\n* Parameter yang valid:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Fungsi ini membuatmu bisa memulai atau menghentikan irama drum.\r\n* Contoh Penggunaan: hoc.drums(Drums.Fast)\r\n* Parameter yang valid:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Fungsi ini membuatmu bisa menentukan not yang akan dimainkan.\r\n* Contoh Penggunaan: hoc.note(Note.Do)\r\n* Parameter yang valid:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Fungsi ini membuatmu bisa menghapus instrumen yang saat ini\r\nditambahkan.\r\n* Contoh penggunaan: hoc.remove_instrument(Instrument.Guitar)\r\n* Parameter yang valid:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

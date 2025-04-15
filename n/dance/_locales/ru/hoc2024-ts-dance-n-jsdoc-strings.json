@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Эта функция задает танец для каждой подставки\r\nс оружием.\r\n*Пример использования: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Доступные параметры:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Эта функция задает танец.\r\n* Пример использования: hoc.dance(Dance.Move8)\r\n* Доступные параметры:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

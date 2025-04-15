@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Ce sous-programme définit quel porte-armure exécutera\r\nquelle danse.\r\n* Exemple d'utilisation : hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Les paramètres valides sont :\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Ce sous-programme définit la danse à exécuter.\r\n* Exemple d'utilisation : hoc.dance(Dance.Move8)\r\n* Les paramètres valides sont :\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

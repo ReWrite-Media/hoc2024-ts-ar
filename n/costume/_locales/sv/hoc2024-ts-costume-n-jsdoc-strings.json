@@ -1,0 +1,3 @@
+{
+  "hoc.costume": "Den här funktionen tar tre parametrar och definierar vilka\r\nklädesplagg som ska bäras på huvudet, kroppen och benen\r\n* Exempel: hoc.costume(HeadWear.Knight_Helmet, MidWear.Knight_Top, LowerWear.Knight_Legs)\r\n* Giltiga HeadWear-parametrar:\r\nAstronaut_Helmet, Ballerina_Crown, Baseball_Hat, Construction_Helmet\r\nCowboy_Hat, Knight_Helmet, Reading_Glasses, Sun_Glasses, Superstar_Hat\r\n* Giltiga MidWear-parametrar:\r\nAstronaut_Top, Ballerina_Shirt, Basketball_Jersey, Construction_Shirt\r\nCowboy_Shirt, Green_TShirt, Knight_Top, Superstar_Shirt, Varsity_Jacket\r\n* Giltiga LowerWear-parametrar:\r\nAstronaut_Legs, Ballerina_Tutu, Black_Boots, Construction_Pants\r\nCowboy_Pants, Khaki_Shorts, Knight_Legs, Superstar_Pants, Swim_Shorts"
+}

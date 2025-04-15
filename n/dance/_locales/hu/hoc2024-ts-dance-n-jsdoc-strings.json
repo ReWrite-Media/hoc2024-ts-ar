@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Ez a függvény határozza meg, hogy melyik páncéltartó\r\nállvány melyik táncmozdulatokat végezze.\r\n* Példa a használatára: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Érvényes paraméterek:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Ez a függvény határozza meg a táncmozdulatokat.\r\n* Példa a használatára: hoc.dance(Dance.Move8)\r\n* Érvényes paraméterek:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Bu işlev, 8 farklı enstrümandan birini eklemenize olanak tanır.\r\n* Kullanım Örneği: hoc.enstrüman_ekle(Gitar.Enstrümanı)\r\n* Geçerli parametreler şunlardır:\r\nBass.Enstrümanı, Zil.Enstrümanı, Flüt.Enstrümanı, Gitar.Enstrümanı\r\nPiyano.Enstrümanı, Tekno.Enstrümanı, Köylü.Enstrümanı, Ksilofon.Enstrümanı",
+  "hoc.drums": "Bu işlev, bir davul ritmini başlatmanıza veya durdurmanıza olanak tanır.\r\n* Kullanım Örneği: hoc.ritim(Hızlı.Ritim)\r\n* Geçerli parametreler şunlardır:\r\nYavaş.Ritim, Orta.Ritim veya Hızlı.Ritim, Ritim.Yok",
+  "hoc.note": "Bu işlev, hangi notanın çalınacağını ayarlamanıza olanak tanır.\r\n* Kullanım Örneği: hoc.nota(Nota.Do)\r\n* Geçerli parametreler şunlardır:\r\nNota.Do, Nota.Re, Nota.Mi, Nota.Fa, Nota.So, Nota.La, Nota.Si",
+  "hoc.remove_instrument": "Bu işlev, halihazırda\r\neklenmiş olan herhangi bir enstrümanı kaldırmanıza olanak tanır.\r\n* Kullanım Örneği: hoc.enstrüman_kaldır(Gitar.Enstrümanı)\r\n* Geçerli parametreler şunlardır:\r\nBass.Enstrümanı, Zil.Enstrümanı, Flüt.Enstrümanı, Gitar.Enstrümanı\r\nPiyano.Enstrümanı, Tekno.Enstrümanı, Köylü.Enstrümanı, Ksilofon.Enstrümanı"
+}

@@ -1,0 +1,4 @@
+{
+  "hoc.armorstand_dance": "Diese Funktion weist an, welcher Rüstungs\r\nständer welchen Tanz ausführen soll.\r\n* Anwendungsbeispiel: hoc.dance(ArmorStand.One, Dance.Move8)\r\n* Gültige Parameter sind:\r\nDance.DolphinDisco, Dance.MushroomMarch, Dance.GolemGallop, Dance.WitherWave",
+  "hoc.dance": "Diese Funktion gibt an, welcher Tanz ausgeführt werden soll.\r\n* Anwendungsbeispiel: hoc.dance(Dance.Move8)\r\n* Gültige Parameter sind:\r\nDance.GolemGallop, Dance.DolphinDisco, Dance.WitherWave, Dance.MushroomMarch,\r\nDance.BlazeBounce, Dance.CreeperClap, Dance.RavagerRomp, Dance.HoglinHandJive,\r\nDance.DungeonDig, Dance.AlexAxle, Dance.WardenWhirl"
+}

@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Denne funktion giver dig mulighed for at tilføje et af 8 forskellige instrumenter.\r\n* Eksempel på brug: hoc.add_instrument(Instrument.Guitar)\r\n* Gyldige argumenter er:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Denne funktion giver dig mulighed for at starte eller stoppe en trommerytme.\r\n* Eksempel på brug: hoc.drums(Drums.Fast)\r\n* Gyldige argumenter er:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Denne funktion giver dig mulighed for at indstille, hvilken node der skal spilles.\r\n* Eksempel på brug: hoc.note(Note.Do)\r\n* Gyldige argumenter er:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Denne funktion giver dig mulighed for at fjerne ethvert instrument, der i øjeblikket er\r\ntilføjet.\r\n* Eksempel på brug: hoc.remove_instrument(Instrument.Guitar)\r\n* Gyldige argumenter er:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

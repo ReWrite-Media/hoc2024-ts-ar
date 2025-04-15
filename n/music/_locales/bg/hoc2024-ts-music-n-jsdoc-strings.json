@@ -1,0 +1,6 @@
+{
+  "hoc.add_instrument": "Тази функция ви позволява да добавите един от 8 различни инструмента.\r\n* Пример за използване: hoc.add_instrument(Instrument.Guitar)\r\n* Валидните параметри са:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone",
+  "hoc.drums": "Тази функция ви позволява да започнете или спрете барабанен ритъм.\r\n* Пример за използване: hoc.drums(Drums.Fast)\r\n* Валидните параметри са:\r\nDrums.Slow, Drums.Medium, or Drums.Fast, Drums.None",
+  "hoc.note": "Тази функция ви позволява да зададете коя нота да се изсвири.\r\n* Пример за използване: hoc.note(Note.Do)\r\n* Валидните параметри са:\r\nNote.Do, Note.Re, Note.Mi, Note.Fa, Note.So, Note.La, Note.Ti",
+  "hoc.remove_instrument": "Тази функция ви позволява да премахнете всеки инструмент, който в момента е\r\nдобавен.\r\n* Пример за използване: hoc.remove_instrument(Instrument.Guitar)\r\n* Валидните параметри са:\r\nInstrument.Bass, Instrument.Bells, Instrument.Flute, Instrument.Guitar\r\nInstrument.Piano, Instrument.Synth, Instrument.Villager, Instrument.Xylophone"
+}

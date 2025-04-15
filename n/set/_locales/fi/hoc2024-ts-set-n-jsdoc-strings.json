@@ -1,0 +1,3 @@
+{
+  "hoc.set": "Tämä funktio määrittää lavasteiden biomin, ajan ja sään.\r\n*Käyttöesimerkki: hoc.set(Biome.Savannah, Time.Day, Weather.Rain)\r\n*Kelvolliset biomiparametrit:\r\nBiome.Savannah, Biome.Taiga, Biome.Desert, Biome.Jungle, Biome.Forest\r\nBiome.Ocean, Biome.Nether, Biome.End, Biome.City, Biome.Space\r\n*Kelvolliset aikaparametrit:\r\nTime.Sunrise, Time.Day, Time.Sunset, Time.Night\r\n*Kelvolliset sääparametrit:\r\nClimate.Clear, Climate.Snow, Climate.Rain, Climate.Thunderstorm"
+}

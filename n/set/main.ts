@@ -3,11 +3,11 @@
 enum Biome {
     //% block="savannah"
     Savannah,
-    //% block="taiga"
+    //% block="تيجا"
     Taiga,
-    //% block="desert"
+    //% block="الصحراء"
     Desert,
-    //% block="jungle"
+    //% block="الغابة"
     Jungle,
     //% block="forest"
     Forest,
@@ -24,55 +24,55 @@ enum Biome {
 }
 
 enum Biome_Activity {
-    //% block="taiga"
+    //% block="تيجا"
     Taiga,
-    //% block="desert"
+    //% block="الصحراء"
     Desert,
-    //% block="jungle"
+    //% block="الغابة"
     Jungle
 }
 
 enum Time {
     //% block="sunrise"
     Sunrise,
-    //% block="day"
+    //% block="نهار"
     Day,
-    //% block="sunset"
+    //% block="غروب"
     Sunset,
-    //% block="night"
+    //% block="ليل"
     Night
 
 }
 
 enum Time_Activity {
-    //% block="day"
+    //% block="نهار"
     Day,
-    //% block="sunset"
+    //% block="غروب"
     Sunset,
-    //% block="night"
+    //% block="ليل"
     Night
 
 }
 
 enum Climate {
-    //% block="clear"
+    //% block="صافي"
     Clear,
     //% block="cloudy"
     Cloudy,
-    //% block="rain"
+    //% block="ماطر"
     Rain,
-    //% block="snow"
+    //% block="ثلوج"
     Snow,
     //% block="thunderstorm"
     Thunderstorm
 }
 
 enum Weather_Activity {
-    //% block="clear"
+    //% block="صافي"
     Clear,
-    //% block="rain"
+    //% block="ماطر"
     Rain,
-    //% block="snow"
+    //% block="ثلوج"
     Snow,    
 }
 
@@ -87,7 +87,7 @@ namespace hoc {
     /**
      * This function sets the biome, time, and weather for the set.
      */        
-    //% block="biome %b time %t weather %w"
+    //% block="البيئة %b الوقت %t الطقس %w"
     export function set(b: Biome, t: Time, w: Climate): void {
         switch (b) {
             case Biome.Savannah:
@@ -161,7 +161,7 @@ namespace hoc {
     }
 
     //ACTIVITY
-    //% block="biome %b time %t weather %w"
+    //% block="البيئة %b الوقت %t الطقس %w"
     export function _set_activity(b: Biome_Activity, t: Time_Activity, w: Weather_Activity): void {
         switch (b) {
             case Biome_Activity.Taiga:

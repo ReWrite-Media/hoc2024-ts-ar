@@ -156,7 +156,7 @@ namespace hoc {
      * This function takes three parameters and defines what
      * clothing items should be placed on the head, body and leggs
      */        
-    //% block="head %u body %m legs %l"
+    //% block="الرأس %u الجسم %m الساقان %l"
     //% u.fieldEditor="gridpicker" u.fieldOptions.width=140 u.fieldOptions.columns=3
     //% m.fieldEditor="gridpicker" m.fieldOptions.width=140 m.fieldOptions.columns=3
     //% l.fieldEditor="gridpicker" l.fieldOptions.width=140 l.fieldOptions.columns=3
@@ -257,7 +257,7 @@ namespace hoc {
     }
 
     //ACTIVITY
-    //% block="head %u body %m legs %l"
+    //% block="الرأس %u الجسم %m الساقان %l"
     //% u.fieldEditor="gridpicker" u.fieldOptions.width=140 u.fieldOptions.columns=3
     //% m.fieldEditor="gridpicker" m.fieldOptions.width=140 m.fieldOptions.columns=3
     //% l.fieldEditor="gridpicker" l.fieldOptions.width=140 l.fieldOptions.columns=3

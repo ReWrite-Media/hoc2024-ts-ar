@@ -1,13 +1,13 @@
 //ENUMS
 
 enum Dance {
-    //% block="golem gallop"
+    //% block="جوليم جلوب"
     GolemGallop,
-    //% block="dolphin disco"
+    //% block="دولفين ديسكو"
     DolphinDisco,
-    //% block="wither wave"
+    //% block="ويذر ويف"
     WitherWave,
-    //% block="mushroom march"
+    //% block="ماشروم مارش"
     MushroomMarch,
     //% block="blaze bounce"
     BlazeBounce,
@@ -26,13 +26,13 @@ enum Dance {
 }
 
 enum _Dances_Actvity {
-    //% block="golem gallop"
+    //% block="جوليم جلوب"
     GolemGallop,
-    //% block="dolphin disco"
+    //% block="دولفين ديسكو"
     DolphinDisco,
-    //% block="wither wave"
+    //% block="ويذر ويف"
     WitherWave,
-    //% block="mushroom march"
+    //% block="ماشروم مارش"
     MushroomMarch
 }
 
@@ -59,7 +59,7 @@ namespace hoc {
     /**
      * This function instructs which dance should be done.
      */    
-    //% block="dance step %s"
+    //% block="رقصة %d"
     export function dance(d: Dance): void {
         let score = "0"
         switch (d) {
@@ -105,7 +105,7 @@ namespace hoc {
      * This function instructs which armor 
      * stand should do which dance.
      */
-    //% block="armor stand %n dance %d"
+    //% block="قاعدة الراقص %n رقصة %d"
     export function armorstand_dance(a: ArmorStand, d: Dance): void {
         let score = "0"
         switch (a) {
@@ -141,7 +141,7 @@ namespace hoc {
     }
 
     //ACTIVITY
-    //% block="armor stand %s dance %d"
+    //% block="قاعدة الراقص %n رقصة %d"
     export function _dance_activity(s: ArmorStand, d: _Dances_Actvity): void {
         let score = "0"
 

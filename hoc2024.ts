@@ -8,7 +8,7 @@ namespace hoc {
     /**
      * This function starts the game.
      */  
-    //% block="raise hand"
+    //% block="ارفع يدك"
     export function raise_hand(): void {
         player.execute("scoreboard players set .output global 1")
     }

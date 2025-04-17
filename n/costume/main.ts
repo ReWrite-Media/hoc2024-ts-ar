@@ -1,144 +1,144 @@
 enum HeadWear {
-    //% block="superstar"
+    //% block="قبعة النجم"
     //% jres 
     Superstar_Hat,
-    //% block="knight helmet"
+    //% block="خوذة الفارس"
     //% jres 
     Knight_Helmet,
-    //% block="cowboy hat"
+    //% block="قبعة رعاة البقر"
     //% jres 
     Cowboy_Hat,
-    //% block="astronaut helmet"
+    //% block="خوذة رائد الفضاء"
     //% jres 
     Astronaut_Helmet,
-    //% block="construction helmet"
+    //% block="خوذة البناء"
     //% jres 
     Construction_Helmet,
-    //% block="ballerina crown"
+    //% block="تاج الباليه"
     //% jres 
     Ballerina_Crown,
-    //% block="sun glasses"
+    //% block="نظارات شمسية"
     //% jres 
     Sun_Glasses,
-    //% block="reading glasses"
+    //% block="نظارات القراءة"
     //% jres 
     Reading_Glasses,
-    //% block="baseball hat"
+    //% block="قبعة البيسبول"
     //% jres 
     Baseball_Hat
 }
 
 enum HeadWear_Activity {
-    //% block="astronaut helmet"
+    //% block="خوذة رائد الفضاء"
     //% jres 
     Astronaut_Helmet,
-    //% block="cowboy hat"
+    //% block="قبعة رعاة البقر"
     //% jres 
     Cowboy_Hat,
-    //% block="construction helmet"
+    //% block="خوذة البناء"
     //% jres 
     Construction_Helmet,
-    //% block="knight helmet"
+    //% block="خوذة الفارس"
     //% jres 
     Knight_Helmet,
-    //% block="ballerina crown"
+    //% block="تاج الباليه"
     //% jres 
     Ballerina_Crown
 }
 
 
 enum MidWear {
-    //% block="superstar"
+    //% block="زي النجم"
     //% jres 
     Superstar_Shirt,
-    //% block="knight armor"
+    //% block="درع الفارس"
     //% jres 
     Knight_Top,
-    //% block="cowboy shirt"
+    //% block="قميص رعاة البقر"
     //% jres 
     Cowboy_Shirt,
-    //% block="astronaut suit"
+    //% block="بدلة رائد الفضاء"
     //% jres 
     Astronaut_Top,
-    //% block="construction shirt"
+    //% block="قميص البناء"
     //% jres 
     Construction_Shirt,
-    //% block="ballerina shirt"
+    //% block="قميص الباليه"
     //% jres 
     Ballerina_Shirt,
-    //% block="varsity jacket"
+    //% block="سترة رياضية"
     //% jres 
     Varsity_Jacket,
-    //% block="green t-shirt"
+    //% block="قميص أخضر"
     //% jres 
     Green_TShirt,
-    //% block="basketball jersey"
+    //% block="قميص كرة السلة"
     //% jres 
     Basketball_Jersey
 }
 
 enum MidWear_Activity {
-    //% block="astronaut suit"
+    //% block="بدلة رائد الفضاء"
     //% jres 
     Astronaut_Top,
-    //% block="cowboy shirt"
+    //% block="قميص رعاة البقر"
     //% jres 
     Cowboy_Shirt,
-    //% block="construction shirt"
+    //% block="قميص البناء"
     //% jres 
     Construction_Shirt,
-    //% block="knight armor"
+    //% block="درع الفارس"
     //% jres 
     Knight_Top,
-    //% block="ballerina shirt"
+    //% block="قميص الباليه"
     //% jres 
     Ballerina_Shirt
 }
 
 enum LowerWear {
-    //% block="superstar"
+    //% block="بنطال النجم"
     //% jres 
     Superstar_Pants,
-    //% block="knight leggings"
+    //% block="بنطال الفارس"
     //% jres 
     Knight_Legs,
-    //% block="cowboy jeans"
+    //% block="بنطال رعاة البقر"
     //% jres 
     Cowboy_Pants,
-    //% block="astronaut pants"
+    //% block="بنطال رائد الفضاء"
     //% jres 
     Astronaut_Legs,
-    //% block="construction jeans"
+    //% block="بنطال البناء"
     //% jres 
     Construction_Pants,
-    //% block="ballerina tutu"
+    //% block="تنورة الباليه"
     //% jres 
     Ballerina_Tutu,
-    //% block="swim shorts"
+    //% block="شورت السباحة"
     //% jres 
     Swim_Shorts,
-    //% block="khaki shorts"
+    //% block="شورت رسمي"
     //% jres 
     Khaki_Shorts,
-    //% block="boots"
+    //% block="حذاء"
     //% jres 
     Black_Boots
 }
 
 enum LowerWear_Activity {
-    //% block="astronaut pants"
+    //% block="بنطال رائد الفضاء"
     //% jres 
     Astronaut_Legs,
-    //% block="cowboy jeans"
+    //% block="بنطال رعاة البقر"
     //% jres 
     Cowboy_Pants,
-    //% block="construction jeans"
+    //% block="بنطال البناء"
     //% jres 
     Construction_Pants,
-    //% block="knight leggings"
+    //% block="بنطال الفارس"
     //% jres 
     Knight_Legs,
-    //% block="ballerina tutu"
+    //% block="تنورة الباليه"
     //% jres 
     Ballerina_Tutu
 }

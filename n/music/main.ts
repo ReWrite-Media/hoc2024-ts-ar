@@ -28,7 +28,7 @@ enum Note {
     Ti
 }
 enum Instrument {
-    //% blockIdentity="blocks.custom" enumval=0 block="synth"
+    //% blockIdentity="blocks.custom" enumval=0 block="سينث عصري"
     //% jres 
     Synth,
     //% blockIdentity="blocks.custom" enumval=1 block="الإكسيليفون"
@@ -37,19 +37,19 @@ enum Instrument {
     //% blockIdentity="blocks.custom" enumval=2 block="الجيتار"
     //% jres 
     Guitar,
-    //% blockIdentity="blocks.custom" enumval=3 block="flute"
+    //% blockIdentity="blocks.custom" enumval=3 block="ناي هادئ"
     //% jres
     Flute,
     //% blockIdentity="blocks.custom" enumval=5 block="الأجراس"
     //% jres
     Bells,
-    //% blockIdentity="blocks.custom" enumval=6 block="bass"
+    //% blockIdentity="blocks.custom" enumval=6 block="جهير قوي"
     //% jres
     Bass,
     //% blockIdentity="blocks.custom" enumval=7 block="بيانو"
     //% jres
     Piano,
-    //% blockIdentity="blocks.custom" enumval=8 block="villager"
+    //% blockIdentity="blocks.custom" enumval=8 block="قروي مضحك"
     //% jres
     Villager
 }

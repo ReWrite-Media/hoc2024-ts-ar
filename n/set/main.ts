@@ -1,7 +1,7 @@
 //ENUMS
 
 enum Biome {
-    //% block="savannah"
+    //% block="السافانا - جافة واسعة"
     Savannah,
     //% block="تيجا"
     Taiga,
@@ -9,17 +9,17 @@ enum Biome {
     Desert,
     //% block="الغابة"
     Jungle,
-    //% block="forest"
+    //% block="الغابة - خضراء"
     Forest,
-    //% block="ocean"
+    //% block="المحيط - مائية"
     Ocean,
-    //% block="nether"
+    //% block="النذر - مظلم"
     Nether,
-    //% block="end"
+    //% block="النهاية - غامض"
     End,
-    //% block="city"
+    //% block="المدينة - حضري"
     City,
-    //% block="space"
+    //% block="الغضاء"
     Space
 }
 
@@ -33,7 +33,7 @@ enum Biome_Activity {
 }
 
 enum Time {
-    //% block="sunrise"
+    //% block="شروق الشمس - صباحي"
     Sunrise,
     //% block="نهار"
     Day,
@@ -57,13 +57,13 @@ enum Time_Activity {
 enum Climate {
     //% block="صافي"
     Clear,
-    //% block="cloudy"
+    //% block="غائم"
     Cloudy,
     //% block="ماطر"
     Rain,
     //% block="ثلوج"
     Snow,
-    //% block="thunderstorm"
+    //% block="عاصف"
     Thunderstorm
 }
 

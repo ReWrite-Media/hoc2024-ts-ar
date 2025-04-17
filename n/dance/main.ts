@@ -9,19 +9,19 @@ enum Dance {
     WitherWave,
     //% block="ماشروم مارش"
     MushroomMarch,
-    //% block="blaze bounce"
+    //% block="قفزة اللهب - مثير"
     BlazeBounce,
-    //% block="creeper clap"
+    //% block="تصفيقة الكريبر - مرعب"
     CreeperClap,
-    //% block="ravager romp"
+    //% block="الراڤاجير- قوي"
     RavagerRomp,
-    //% block="hoglin hand jive"
+    //% block="هوجلين - مرح"
     HoglinHandJive,
-    //% block="dungeon dig"
+    //% block="حفر الزنزانة - غامض"
     DungeonDig,
-    //% block="alex axle"
+    //% block="أليكس - رياضي"
     AlexAxle,
-    //% block="warden whirl"
+    //% block="دوامة الحارس - مخيف"
     WardenWhirl
 }
 
